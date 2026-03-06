@@ -115,7 +115,7 @@ export default function Facilities() {
             transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1] }}
             className="text-5xl sm:text-6xl md:text-7xl lg:text-[5.5rem] font-heading font-normal leading-[1.05] tracking-tight text-white drop-shadow-lg"
           >
-            Sky-High <em className="italic font-light text-[#C49A38]">Facilitiesszzzz</em>
+            Sky-High <em className="italic font-light text-[#C49A38]">Facilities</em>
           </motion.h2>
           <div className="mt-4 w-16 h-[2px] bg-gradient-to-r from-[#C49A38] to-transparent" />
         </div>
